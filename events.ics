@@ -1,0 +1,300 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//imazu-guide//JA
+CALSCALE:GREGORIAN
+X-WR-CALNAME:今津の行事（今津ガイド）
+X-WR-TIMEZONE:Asia/Tokyo
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:ebisu-2025@imazu-guide
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20250109
+DTEND;VALUE=DATE:20250112
+SUMMARY:十日えびす
+LOCATION:西宮神社（社家町1-17）
+DESCRIPTION:えびす宮総本社の新年の大祭。10日朝6時は開
+ 門神事・福男選び。とても混むのでベビーカーは避け
+ るのが無難。駐車場は使えない。\nhttps://rurubu.jp/andmore
+ /spot/20000953
+END:VEVENT
+BEGIN:VEVENT
+UID:natsu-2025@imazu-guide
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20250709
+DTEND;VALUE=DATE:20250711
+SUMMARY:夏えびす（宵宮・例祭）（日付は目安）
+LOCATION:西宮神社
+DESCRIPTION:十日えびすのちょうど半年後。夜は松林に屋
+ 台が並ぶ（2026年は7月9・10日の16〜21時）。年ごとの日
+ 程は神社の案内で確認。\nhttps://summer.walkerplus.com/odekake
+ /detail_e/ar0728e313172/
+END:VEVENT
+BEGIN:VEVENT
+UID:mando-2025@imazu-guide
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20250720
+DTEND;VALUE=DATE:20250721
+SUMMARY:えびす万燈籠（日付は目安）
+LOCATION:西宮神社
+DESCRIPTION:石灯籠とろうそくに火がともる夜の行事。近
+ 隣の子どもの灯籠も飾られる。19〜20時ごろが最も混
+ む。\nhttps://summer.walkerplus.com/odekake/detail_e/ar0728e313172/
+END:VEVENT
+BEGIN:VEVENT
+UID:imazufes-2025@imazu-guide
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20250802
+DTEND;VALUE=DATE:20250804
+SUMMARY:今津サマーフェスティバル
+LOCATION:今津小学校 校庭
+DESCRIPTION:今津連合福祉会の夏祭り。1日目は盆踊り（今
+ 津音頭など）、2日目はショー。町会・団体の出店あ
+ り。日程は町会の回覧・案内で確認。\nhttps://imadumai.co
+ m/about/fes/
+END:VEVENT
+BEGIN:VEVENT
+UID:sake-2025@imazu-guide
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20251004
+DTEND;VALUE=DATE:20251006
+SUMMARY:西宮酒ぐらルネサンスと食フェア（日付は目安
+ ）
+LOCATION:西宮神社と周辺の酒蔵
+DESCRIPTION:例年10月上旬の土日。日程が発表されたら確
+ 認する。\nhttps://www.nishi.or.jp/shisei/koho/shashin-news/2026/2026
+ 10/20261003photonews.html
+END:VEVENT
+BEGIN:VEVENT
+UID:shimin-2025@imazu-guide
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20251025
+DTEND;VALUE=DATE:20251026
+SUMMARY:にしのみや市民祭り
+LOCATION:西宮市役所周辺
+DESCRIPTION:だんじり・子ども神輿、模擬店、ステージ。
+ 約2万5千人。\nhttps://www.nishi.or.jp/shisei/koho/shashin-news/2025
+ /202510/20251025photonews.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ebisu-2026@imazu-guide
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20260109
+DTEND;VALUE=DATE:20260112
+SUMMARY:十日えびす
+LOCATION:西宮神社（社家町1-17）
+DESCRIPTION:えびす宮総本社の新年の大祭。10日朝6時は開
+ 門神事・福男選び。とても混むのでベビーカーは避け
+ るのが無難。駐車場は使えない。\nhttps://rurubu.jp/andmore
+ /spot/20000953
+END:VEVENT
+BEGIN:VEVENT
+UID:natsu-2026@imazu-guide
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20260709
+DTEND;VALUE=DATE:20260711
+SUMMARY:夏えびす（宵宮・例祭）（日付は目安）
+LOCATION:西宮神社
+DESCRIPTION:十日えびすのちょうど半年後。夜は松林に屋
+ 台が並ぶ（2026年は7月9・10日の16〜21時）。年ごとの日
+ 程は神社の案内で確認。\nhttps://summer.walkerplus.com/odekake
+ /detail_e/ar0728e313172/
+END:VEVENT
+BEGIN:VEVENT
+UID:mando-2026@imazu-guide
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20260720
+DTEND;VALUE=DATE:20260721
+SUMMARY:えびす万燈籠（日付は目安）
+LOCATION:西宮神社
+DESCRIPTION:石灯籠とろうそくに火がともる夜の行事。近
+ 隣の子どもの灯籠も飾られる。19〜20時ごろが最も混
+ む。\nhttps://summer.walkerplus.com/odekake/detail_e/ar0728e313172/
+END:VEVENT
+BEGIN:VEVENT
+UID:imazufes-2026@imazu-guide
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260803
+SUMMARY:今津サマーフェスティバル
+LOCATION:今津小学校 校庭
+DESCRIPTION:今津連合福祉会の夏祭り。1日目は盆踊り（今
+ 津音頭など）、2日目はショー。町会・団体の出店あ
+ り。日程は町会の回覧・案内で確認。\nhttps://imadumai.co
+ m/about/fes/
+END:VEVENT
+BEGIN:VEVENT
+UID:sake-2026@imazu-guide
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261005
+SUMMARY:西宮酒ぐらルネサンスと食フェア
+LOCATION:西宮神社と周辺の酒蔵
+DESCRIPTION:第30回。酒蔵を無料シャトルバスで結ぶ。食
+ の出店も多い。\nhttps://www.nishi.or.jp/shisei/koho/shashin-news/
+ 2026/202610/20261003photonews.html
+END:VEVENT
+BEGIN:VEVENT
+UID:shimin-2026@imazu-guide
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:にしのみや市民祭り（日付は目安）
+LOCATION:西宮市役所周辺
+DESCRIPTION:例年10月下旬ごろ。だんじり・子ども神輿、
+ 模擬店。日程は市の広報で確認する。\nhttps://www.nishi.o
+ r.jp/shisei/koho/shashin-news/2025/202510/20251025photonews.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ebisu-2027@imazu-guide
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270112
+SUMMARY:十日えびす
+LOCATION:西宮神社（社家町1-17）
+DESCRIPTION:えびす宮総本社の新年の大祭。10日朝6時は開
+ 門神事・福男選び。とても混むのでベビーカーは避け
+ るのが無難。駐車場は使えない。\nhttps://rurubu.jp/andmore
+ /spot/20000953
+END:VEVENT
+BEGIN:VEVENT
+UID:natsu-2027@imazu-guide
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20270709
+DTEND;VALUE=DATE:20270711
+SUMMARY:夏えびす（宵宮・例祭）（日付は目安）
+LOCATION:西宮神社
+DESCRIPTION:十日えびすのちょうど半年後。夜は松林に屋
+ 台が並ぶ（2026年は7月9・10日の16〜21時）。年ごとの日
+ 程は神社の案内で確認。\nhttps://summer.walkerplus.com/odekake
+ /detail_e/ar0728e313172/
+END:VEVENT
+BEGIN:VEVENT
+UID:mando-2027@imazu-guide
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20270720
+DTEND;VALUE=DATE:20270721
+SUMMARY:えびす万燈籠（日付は目安）
+LOCATION:西宮神社
+DESCRIPTION:石灯籠とろうそくに火がともる夜の行事。近
+ 隣の子どもの灯籠も飾られる。19〜20時ごろが最も混
+ む。\nhttps://summer.walkerplus.com/odekake/detail_e/ar0728e313172/
+END:VEVENT
+BEGIN:VEVENT
+UID:imazufes-2027@imazu-guide
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20270807
+DTEND;VALUE=DATE:20270809
+SUMMARY:今津サマーフェスティバル
+LOCATION:今津小学校 校庭
+DESCRIPTION:今津連合福祉会の夏祭り。1日目は盆踊り（今
+ 津音頭など）、2日目はショー。町会・団体の出店あ
+ り。日程は町会の回覧・案内で確認。\nhttps://imadumai.co
+ m/about/fes/
+END:VEVENT
+BEGIN:VEVENT
+UID:sake-2027@imazu-guide
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20271002
+DTEND;VALUE=DATE:20271004
+SUMMARY:西宮酒ぐらルネサンスと食フェア（日付は目安
+ ）
+LOCATION:西宮神社と周辺の酒蔵
+DESCRIPTION:例年10月上旬の土日。日程が発表されたら確
+ 認する。\nhttps://www.nishi.or.jp/shisei/koho/shashin-news/2026/2026
+ 10/20261003photonews.html
+END:VEVENT
+BEGIN:VEVENT
+UID:shimin-2027@imazu-guide
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20271023
+DTEND;VALUE=DATE:20271024
+SUMMARY:にしのみや市民祭り（日付は目安）
+LOCATION:西宮市役所周辺
+DESCRIPTION:例年10月下旬ごろ。だんじり・子ども神輿、
+ 模擬店。日程は市の広報で確認する。\nhttps://www.nishi.o
+ r.jp/shisei/koho/shashin-news/2025/202510/20251025photonews.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ebisu-2028@imazu-guide
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20280109
+DTEND;VALUE=DATE:20280112
+SUMMARY:十日えびす
+LOCATION:西宮神社（社家町1-17）
+DESCRIPTION:えびす宮総本社の新年の大祭。10日朝6時は開
+ 門神事・福男選び。とても混むのでベビーカーは避け
+ るのが無難。駐車場は使えない。\nhttps://rurubu.jp/andmore
+ /spot/20000953
+END:VEVENT
+BEGIN:VEVENT
+UID:natsu-2028@imazu-guide
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20280709
+DTEND;VALUE=DATE:20280711
+SUMMARY:夏えびす（宵宮・例祭）（日付は目安）
+LOCATION:西宮神社
+DESCRIPTION:十日えびすのちょうど半年後。夜は松林に屋
+ 台が並ぶ（2026年は7月9・10日の16〜21時）。年ごとの日
+ 程は神社の案内で確認。\nhttps://summer.walkerplus.com/odekake
+ /detail_e/ar0728e313172/
+END:VEVENT
+BEGIN:VEVENT
+UID:mando-2028@imazu-guide
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20280720
+DTEND;VALUE=DATE:20280721
+SUMMARY:えびす万燈籠（日付は目安）
+LOCATION:西宮神社
+DESCRIPTION:石灯籠とろうそくに火がともる夜の行事。近
+ 隣の子どもの灯籠も飾られる。19〜20時ごろが最も混
+ む。\nhttps://summer.walkerplus.com/odekake/detail_e/ar0728e313172/
+END:VEVENT
+BEGIN:VEVENT
+UID:imazufes-2028@imazu-guide
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20280805
+DTEND;VALUE=DATE:20280807
+SUMMARY:今津サマーフェスティバル
+LOCATION:今津小学校 校庭
+DESCRIPTION:今津連合福祉会の夏祭り。1日目は盆踊り（今
+ 津音頭など）、2日目はショー。町会・団体の出店あ
+ り。日程は町会の回覧・案内で確認。\nhttps://imadumai.co
+ m/about/fes/
+END:VEVENT
+BEGIN:VEVENT
+UID:sake-2028@imazu-guide
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20281007
+DTEND;VALUE=DATE:20281009
+SUMMARY:西宮酒ぐらルネサンスと食フェア（日付は目安
+ ）
+LOCATION:西宮神社と周辺の酒蔵
+DESCRIPTION:例年10月上旬の土日。日程が発表されたら確
+ 認する。\nhttps://www.nishi.or.jp/shisei/koho/shashin-news/2026/2026
+ 10/20261003photonews.html
+END:VEVENT
+BEGIN:VEVENT
+UID:shimin-2028@imazu-guide
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20281028
+DTEND;VALUE=DATE:20281029
+SUMMARY:にしのみや市民祭り（日付は目安）
+LOCATION:西宮市役所周辺
+DESCRIPTION:例年10月下旬ごろ。だんじり・子ども神輿、
+ 模擬店。日程は市の広報で確認する。\nhttps://www.nishi.o
+ r.jp/shisei/koho/shashin-news/2025/202510/20251025photonews.html
+END:VEVENT
+BEGIN:VEVENT
+UID:kidsxmas-2026@imazu-guide
+DTSTAMP:20261108T000000Z
+DTSTART;TZID=Asia/Tokyo:20261217T100000
+DTEND;TZID=Asia/Tokyo:20261217T113000
+SUMMARY:キッズクリスマス（親子でXmas）
+LOCATION:鳴尾東公民館（東鳴尾町1-9-1）
+DESCRIPTION:未就学児と保護者、20組。材料費なし。申込
+ は10月15日から公民館窓口で先着順（0798-49-1300）。空
+ きは要確認。\nhttps://www.nishi.or.jp/bunka/shogaigakushu/kominkan
+ koza/chiikigakushusuishin/202612_kodomo.html
+END:VEVENT
+END:VCALENDAR
